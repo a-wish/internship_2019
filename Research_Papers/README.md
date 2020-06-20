@@ -9,7 +9,7 @@
 3. **Correlation: Constructing Disparity**
     * We do not need to search the entire right image for a particular feature in the left image, We only need to search along the epipolar line.
 
-# Papers and releated research 
+# Papers and releated research done in the field
 
 Here we collect all the info on the papers on the course of achieving this project.
 
