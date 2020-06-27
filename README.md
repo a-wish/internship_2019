@@ -70,7 +70,7 @@ Our project was divided into three parts
 
 **[Avish Kabra](https://linkedin.com/in/avish-kabra)**: Pre-Final Year Undergrad, B.Tech in Electronics and Electrical Engineering, IIT Guwahati
 
--------
+------------
 
 ## License
 
